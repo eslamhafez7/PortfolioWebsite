@@ -221,8 +221,9 @@ section {
     color: var(--title-color);
 }
 .nav-logo {
-    font-family: var(--title-font);
-    font-weight: var(--font-meduim);
+   font-family: var(--title-font);
+    font-weight: var(--font-semi-bold);
+    font-size: 1rem;
 }
 .nav-toggle {
     display: flex;
